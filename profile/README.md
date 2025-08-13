@@ -5,7 +5,6 @@
 
   <!-- Header -->
   <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-   
     <div>
       <h1 style="margin:0; font-size:28px; letter-spacing:.2px;">ChitChat AI</h1>
       <div style="opacity:.85; font-size:14px; margin-top:2px;">
@@ -42,24 +41,34 @@
   </div>
 
   <!-- Value props -->
-  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:14px; margin:18px 0 8px;">
-    <div style="border:1px solid #1f1f2b; border-radius:12px; padding:14px;">
-      <div style="font-weight:600; margin-bottom:6px;">Human-augmented</div>
-      <div style="opacity:.9;">AI handles the routine, your team handles the nuanced. Best of both.</div>
-    </div>
-    <div style="border:1px solid #1f1f2b; border-radius:12px; padding:14px;">
-      <div style="font-weight:600; margin-bottom:6px;">Persona-driven UX</div>
-      <div style="opacity:.9;">Personas with tone, memory, and guardrails matching your brand.</div>
-    </div>
-    <div style="border:1px solid #1f1f2b; border-radius:12px; padding:14px;">
-      <div style="font-weight:600; margin-bottom:6px;">Fast integration</div>
-      <div style="opacity:.9;">Modern APIs and SDKs; plug into your stack with minimal lift.</div>
-    </div>
-    <div style="border:1px solid #1f1f2b; border-radius:12px; padding:14px;">
-      <div style="font-weight:600; margin-bottom:6px;">Privacy & security</div>
-      <div style="opacity:.9;">Enterprise-grade practices and clear data boundaries.</div>
-    </div>
-  </div>
+ <!-- Value Proposition List -->
+<ul style="margin:18px 0 8px; padding-left:20px; list-style-type:disc;">
+  <li style="margin-bottom:10px;">
+    <strong>Human-augmented</strong>
+    <ul style="list-style-type:circle; padding-left:20px; margin-top:4px;">
+      <li>AI handles the routine, your team handles the nuanced. Best of both.</li>
+    </ul>
+  </li>
+  <li style="margin-bottom:10px;">
+    <strong>Persona-driven UX</strong>
+    <ul style="list-style-type:circle; padding-left:20px; margin-top:4px;">
+      <li>Personas with tone, memory, and guardrails matching your brand.</li>
+    </ul>
+  </li>
+  <li style="margin-bottom:10px;">
+    <strong>Fast integration</strong>
+    <ul style="list-style-type:circle; padding-left:20px; margin-top:4px;">
+      <li>Modern APIs and SDKs; plug into your stack with minimal lift.</li>
+    </ul>
+  </li>
+  <li style="margin-bottom:10px;">
+    <strong>Privacy &amp; security</strong>
+    <ul style="list-style-type:circle; padding-left:20px; margin-top:4px;">
+      <li>Enterprise-grade practices and clear data boundaries.</li>
+    </ul>
+  </li>
+</ul>
+
 
 
   <!-- How to engage -->
