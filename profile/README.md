@@ -5,7 +5,7 @@
 
   <!-- Header -->
   <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-    <img src="YOUR_LOGO_URL" alt="ChitChat AI" width="56" height="56" style="border-radius:12px; background:#260a40; padding:6px;">
+   
     <div>
       <h1 style="margin:0; font-size:28px; letter-spacing:.2px;">ChitChat AI</h1>
       <div style="opacity:.85; font-size:14px; margin-top:2px;">
@@ -29,7 +29,7 @@
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
 </div>
 
-    <img alt="Made in South Africa" src="https://img.shields.io/badge/Made_in-South_Africa-ffbf00?style=flat">
+  
   </div>
 
   <!-- Hero -->
