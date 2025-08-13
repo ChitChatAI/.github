@@ -19,9 +19,16 @@
     <a href="https://chitchatai.co.za" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/website-chitchatai.co.za-7b5cd6?style=flat&logo=google-chrome&logoColor=white">
     </a>
-    <img alt="Built with TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white">
-    <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-brightgreen?style=flat">
+   <!-- Updated Tool Stack Badges -->
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 22px;">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-1A1A1A?style=flat&logo=n8n&logoColor=white">
+  <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-0A0A0A?style=flat&logo=robot&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+</div>
+
     <img alt="Made in South Africa" src="https://img.shields.io/badge/Made_in-South_Africa-ffbf00?style=flat">
   </div>
 
@@ -54,24 +61,6 @@
     </div>
   </div>
 
-  <!-- Featured projects -->
-  <h3 style="margin:18px 0 10px; font-size:18px;">Featured projects</h3>
-  <ul style="margin:0 0 14px 18px;">
-    <li><a href="https://github.com/ChitChatAI/.github" target="_blank" style="color:#bca8ff;">.github</a> — Public profile & organization docs</li>
-    <li><a href="https://github.com/ChitChatAI/chitchat_site" target="_blank" style="color:#bca8ff;">chitchat_site</a> — Company website (monorepo & components)</li>
-    <!-- Add more when public: personas, tts, metrics, etc. -->
-  </ul>
-
-  <!-- Tech stack -->
-  <h3 style="margin:16px 0 8px; font-size:18px;">Tech stack</h3>
-  <div style="display:flex; flex-wrap:wrap; gap:10px; opacity:.95;">
-    <span>TypeScript</span> •
-    <span>Python</span> •
-    <span>FastAPI</span> •
-    <span>LangChain</span> •
-    <span>Supabase/Postgres</span> •
-    <span>React + Tailwind</span>
-  </div>
 
   <!-- How to engage -->
   <h3 style="margin:18px 0 8px; font-size:18px;">Work with us</h3>
@@ -85,7 +74,7 @@
   <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-top:6px;">
     <a href="https://chitchatai.co.za" target="_blank" style="background:#260a40; color:#fff; padding:8px 12px; border-radius:10px; text-decoration:none;">Visit Website</a>
     <a href="mailto:info@chitchatai.co.za" style="background:#1f1f2b; color:#fff; padding:8px 12px; border-radius:10px; text-decoration:none;">Email us</a>
-    <a href="YOUR_LINKEDIN_URL" target="_blank" style="background:#1f1f2b; color:#fff; padding:8px 12px; border-radius:10px; text-decoration:none;">LinkedIn</a>
+    <a href="https://www.linkedin.com/company/chitchatai/" target="_blank" style="background:#1f1f2b; color:#fff; padding:8px 12px; border-radius:10px; text-decoration:none;">LinkedIn</a>
   </div>
 
   <!-- Footer note -->
